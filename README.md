@@ -8,6 +8,6 @@ new AnimateWidth(
   (int) R.id.view,
   (int) animationSpeed,
   (int) initialWidth,
-  (int) finalWidth )
-.playAnimation();
+  (int) finalWidth
+).playAnimation();
 ```
